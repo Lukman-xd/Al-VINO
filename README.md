@@ -14,11 +14,11 @@ $ pip install bs4
 
 $ pip install futures
 
-$ rm -rf Al-VINO-
+$ rm -rf Al-VINO
 
-$ git clone https://github.com/Lukman-xd/Al-VINO-
+$ git clone https://github.com/Lukman-xd/Al-VINO
 
-$ cd Al-VINO-
+$ cd Al-VINO
 
 $ ls
 
